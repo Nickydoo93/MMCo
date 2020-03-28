@@ -1,0 +1,6 @@
+plugin:
+    name: 'mmregister.form::lang.plugin.name'
+    description: 'mmregister.form::lang.plugin.description'
+    author: MMRegister
+    icon: oc-icon-adjust
+    homepage: ''

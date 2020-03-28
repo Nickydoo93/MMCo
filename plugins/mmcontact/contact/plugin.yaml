@@ -1,0 +1,6 @@
+plugin:
+    name: 'mmcontact.contact::lang.plugin.name'
+    description: 'mmcontact.contact::lang.plugin.description'
+    author: MMContact
+    icon: oc-icon-adjust
+    homepage: ''

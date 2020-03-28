@@ -1,0 +1,14 @@
+1584566498a:1:{s:17:"register-form.htm";a:10:{s:8:"fileName";s:17:"register-form.htm";s:7:"content";s:156:"title = "Register Form"
+url = "/register-form"
+layout = "default"
+is_hidden = 0
+
+[form]
+==
+<br>
+<h2>Registration Form</h2>
+
+{% component 'form' %}";s:5:"mtime";i:1571319598;s:6:"markup";s:58:"<br>
+<h2>Registration Form</h2>
+
+{% component 'form' %}";s:4:"code";N;s:5:"title";s:13:"Register Form";s:3:"url";s:14:"/register-form";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:4:"form";a:0:{}}}

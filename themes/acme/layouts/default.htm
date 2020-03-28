@@ -1,0 +1,55 @@
+
+
+ [session]
+ security = "all"
+ 
+==
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Money Matters - {{this.page.title}}</title>
+        <meta name="description" content="{{this.page.meta_description}}">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+       <!-- <link rel="stylesheet" href="https://bootswatch.com/4/sandstone/bootstrap.min.css">-->
+       <link rel="stylesheet" href="{{ 'assets/css/ENTIRESTYLEmom.css'|theme }}"> 
+        
+        {% styles %}
+
+
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
+        
+    </head>
+
+    <body>
+        <header>
+            {% partial 'site/header' %}
+        </header>
+
+            <div class="container">
+                {% page %}
+            </div>
+        
+            
+            
+            
+        
+        <footer>
+            {% partial 'site/footer' %}
+        </footer>
+
+        <script src="{{'assets/vendor/jquery.js'|theme}}"></script>
+        <script src="{{'assets/vendor/bootstrap.js'|theme}}"></script>
+        <script src="{{'assets/javascript/app.js'|theme}}"></script>    
+        
+        {% framework extras %}
+        {% scripts %}
+    </body>
+</html>

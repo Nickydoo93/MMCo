@@ -1,0 +1,34 @@
+columns:
+    delegate_title:
+        label: 'Delegate Title'
+        type: text
+        searchable: true
+        sortable: true
+    first_name:
+        label: 'First Name'
+        type: text
+        sortable: true
+    last_name:
+        label: 'Last Name'
+        type: text
+        searchable: true
+        sortable: true
+    fund_organisation:
+        label: Fund/Organissation
+        type: text
+        searchable: true
+        sortable: true
+    postal_address:
+        label: 'Postal Address'
+        type: text
+    business_tel:
+        label: 'Business Tel'
+        type: number
+    e_mail:
+        label: 'Email Address'
+        type: text
+        sortable: false
+    designation:
+        label: Designation
+        type: text
+        sortable: true

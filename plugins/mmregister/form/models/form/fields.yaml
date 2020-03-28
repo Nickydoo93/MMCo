@@ -1,0 +1,33 @@
+fields:
+    delegate_title:
+        label: 'Delegate Title'
+        span: full
+        type: text
+    first_name:
+        label: 'First Name'
+        span: left
+        type: text
+    last_name:
+        label: 'Last Name'
+        span: right
+        type: text
+    fund_organisation:
+        label: Fund/Organisation
+        span: full
+        type: text
+    postal_address:
+        label: 'Postal Address'
+        span: full
+        type: text
+    business_tel:
+        label: 'Business Tel:'
+        span: full
+        type: number
+    e_mail:
+        label: 'Email Address'
+        span: full
+        type: text
+    designation:
+        label: Designation
+        span: full
+        type: text

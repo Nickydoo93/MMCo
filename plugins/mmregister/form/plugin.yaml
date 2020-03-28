@@ -1,0 +1,15 @@
+plugin:
+    name: 'mmregister.form::lang.plugin.name'
+    description: 'mmregister.form::lang.plugin.description'
+    author: MMRegister
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Menu Item'
+        url: /
+        icon: icon-life-ring
+    main-menu-item2:
+        label: Registry
+        url: mmregister/form/forms
+        icon: icon-list

@@ -1,0 +1,11 @@
+name: Forms
+modelClass: Mmregister\Form\Models\Form
+form: $/mmregister/form/models/form/fields.yaml
+defaultRedirect: mmregister/form/forms
+create:
+    redirect: 'mmregister/form/forms/update/:id'
+    redirectClose: mmregister/form/forms
+update:
+    redirect: mmregister/form/forms
+    redirectClose: mmregister/form/forms
+preview: {  }

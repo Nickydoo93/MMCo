@@ -1,0 +1,80 @@
+1584563530a:1:{s:15:"site/footer.htm";a:5:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:1643:"<!--Footer-->
+<footer>
+        
+    <div class="container-fluid bird">
+            <div class="row text-center">
+                <div class="col-md-4 one">
+                    <hr class="light">
+                    
+                    <h5><a href="https://www.google.com"><img src="{{ 'assets/images/Money Matters Logo.png'|theme }}" class="img-fluid"></a>Contact Us</h5>
+                    <hr class="light">
+                    <p>Telephone: 393 4003</p>
+                    <p>Fax: 3934004</p>
+                    <p>info@moneymatters.co.bw</p>
+                    <p>Unit 105 1st Floor RD Block, Molapo Crossing</p>
+                    <p>Gaborone, Botswana</p>
+                </div>   
+                <div class="col-md-4 two">
+                    <hr class="light">
+                    <h5>Hours</h5>
+                    <hr class="light">
+                    <p>Monday - Friday: 08:00 - 17:00</p>
+                    <p>Saturday - Sunday: Closed</p>
+                </div>
+                <div class="col-md-4 three">
+                        <hr class="light">
+                        <h5>Connect with Us</h5>
+                        <hr class="light">
+                        <div class="col-12 social padding">
+                            <a href="#"><i class="fab fa-facebook"></i></a>
+                        </div>
+                        
+                </div>  
+                <div class="col-12">
+                    <hr class="light">
+                    <h5>&copy;Money Matters (Pty) Ltd</h5>
+                </div>  
+            </div>     
+           </div> 
+        
+</footer>
+";s:5:"mtime";i:1569318863;s:6:"markup";s:1641:"<!--Footer-->
+<footer>
+        
+    <div class="container-fluid bird">
+            <div class="row text-center">
+                <div class="col-md-4 one">
+                    <hr class="light">
+                    
+                    <h5><a href="https://www.google.com"><img src="{{ 'assets/images/Money Matters Logo.png'|theme }}" class="img-fluid"></a>Contact Us</h5>
+                    <hr class="light">
+                    <p>Telephone: 393 4003</p>
+                    <p>Fax: 3934004</p>
+                    <p>info@moneymatters.co.bw</p>
+                    <p>Unit 105 1st Floor RD Block, Molapo Crossing</p>
+                    <p>Gaborone, Botswana</p>
+                </div>   
+                <div class="col-md-4 two">
+                    <hr class="light">
+                    <h5>Hours</h5>
+                    <hr class="light">
+                    <p>Monday - Friday: 08:00 - 17:00</p>
+                    <p>Saturday - Sunday: Closed</p>
+                </div>
+                <div class="col-md-4 three">
+                        <hr class="light">
+                        <h5>Connect with Us</h5>
+                        <hr class="light">
+                        <div class="col-12 social padding">
+                            <a href="#"><i class="fab fa-facebook"></i></a>
+                        </div>
+                        
+                </div>  
+                <div class="col-12">
+                    <hr class="light">
+                    <h5>&copy;Money Matters (Pty) Ltd</h5>
+                </div>  
+            </div>     
+           </div> 
+        
+</footer>";s:4:"code";N;}}
