@@ -107,37 +107,14 @@ class __TwigTemplate_8486a14dad0a9decf3bdab3bb10e2f94d454f33d4b4f790ff2440ba84eb
         echo "\">Contact Us</a>
       </li>
 
-        <li class=\"";
-        // line 28
-        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, false, 28), "id", [], "any", false, false, false, 28) == "register")) {
-            echo "active";
-        }
-        echo "\">
-            <a class=\"nav-link\" href=\"";
-        // line 29
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("register");
-        echo "\">
-              ";
-        // line 30
-        if ( !($context["user"] ?? null)) {
-            // line 31
-            echo "              Register
-              ";
-        } else {
-            // line 33
-            echo "              My Profile
-              ";
-        }
-        // line 35
-        echo "            </a>
-        </li>
+      
 
         ";
-        // line 38
+        // line 30
         if (($context["user"] ?? null)) {
-            // line 39
+            // line 31
             echo "        <li class=\"";
-            if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, false, 39), "id", [], "any", false, false, false, 39) == "signout")) {
+            if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, false, 31), "id", [], "any", false, false, false, 31) == "signout")) {
                 echo "active";
             }
             echo "\">
@@ -145,7 +122,7 @@ class __TwigTemplate_8486a14dad0a9decf3bdab3bb10e2f94d454f33d4b4f790ff2440ba84eb
       </li>
         ";
         }
-        // line 43
+        // line 35
         echo "        
         
         
@@ -167,7 +144,7 @@ class __TwigTemplate_8486a14dad0a9decf3bdab3bb10e2f94d454f33d4b4f790ff2440ba84eb
 
     public function getDebugInfo()
     {
-        return array (  149 => 43,  139 => 39,  137 => 38,  132 => 35,  128 => 33,  124 => 31,  122 => 30,  118 => 29,  112 => 28,  106 => 25,  100 => 24,  94 => 21,  88 => 20,  83 => 18,  77 => 17,  72 => 15,  66 => 14,  61 => 12,  55 => 11,  44 => 3,  40 => 2,  37 => 1,);
+        return array (  126 => 35,  116 => 31,  114 => 30,  106 => 25,  100 => 24,  94 => 21,  88 => 20,  83 => 18,  77 => 17,  72 => 15,  66 => 14,  61 => 12,  55 => 11,  44 => 3,  40 => 2,  37 => 1,);
     }
 
     public function getSourceContext()
@@ -199,15 +176,7 @@ class __TwigTemplate_8486a14dad0a9decf3bdab3bb10e2f94d454f33d4b4f790ff2440ba84eb
           <a class=\"nav-link\" href=\"{{ 'contact-us'|page }}\">Contact Us</a>
       </li>
 
-        <li class=\"{% if this.page.id == 'register' %}active{% endif %}\">
-            <a class=\"nav-link\" href=\"{{ 'register'|page }}\">
-              {% if not user %}
-              Register
-              {% else %}
-              My Profile
-              {% endif %}
-            </a>
-        </li>
+      
 
         {% if user %}
         <li class=\"{% if this.page.id == 'signout' %}active{% endif %}\">

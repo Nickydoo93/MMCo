@@ -113,6 +113,29 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                 duties with confidence.</p>
                 </div>
                 <div class=\"col-md-4\">
+                            <h4>Investment 101</h4>
+                            <hr class=\"my-4\">
+                            <p>Aimed at trustees who are new to the retirement
+                                    funds industry or need to improve their investment
+                                    knowledge. The course provides an introduction to
+                                    the basic investment concepts applied in the industry.
+                                    The interactive sessions will lay the foundation
+                                    for understanding more advanced investment
+                                    topics.</p>
+                    </div>
+                    <div class=\"col-md-4\">
+                            <h4>Investment 102</h4>
+                            <hr class=\"my-4\">
+                            <p>Appropriate for trustees who have a basic understanding
+                                    of investments but require a better grasp of
+                                    investment issues. The course will provide individuals
+                                    with a more advanced overview of investment
+                                    topics related to the management of a retirement
+                                    fund and enable trustees to participate more effectively
+                                    on the Board when dealing with investment
+                                    matters.</p>
+                    </div>
+                <div class=\"col-md-4\">
                         <h4>Investment 103</h4>
                         <hr class=\"my-4\">
                         <p>Appropriate for trustees who form part of the
@@ -134,14 +157,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                 habits and improve their standard of living after
                                 retirement.</p>
                 </div>
-                <div class=\"col-md-4\">
-                        <h4>Fiduciary & Investment Combo</h4>
-                        <hr class=\"my-4\">
-                        <p>Ideal for new and non-financial trustees. The objective
-                                of the combined fiduciary and Investment
-                                Combo is to introduce retirement industry concepts
-                                at a pace understood by new trustees.</p>
-                    </div>
+                
                         <div class=\"col-md-4\">
                         <h4>Fiduciary & Investment Combo</h4>
                         <hr class=\"my-4\">
@@ -158,7 +174,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     101 is to provide the trustee with a basic understanding
                                     of risk and practical methods of its management.</p>
                     </div>
-                    <div class=\"col-md-4\">
+                                    <div class=\"col-md-4\">
                             <h4>Risk Management 102</h4>
                             <hr class=\"my-4\">
                             <p>Ideal for trustees with a basic understanding of Risk
@@ -167,7 +183,9 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     102 Module is to develop a technical
                                     understanding of pension fund risk management to
                                     enable practical methods of managing risks.</p>
-                    </div>
+                </div>
+
+                    
                     <div class=\"col-md-4\">
                             <h4>Near-Retirement Training</h4>
                             <hr class=\"my-4\">
@@ -176,17 +194,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     at retirement in order to maximise the value
                                     of their fund credit.</p>
                     </div>
-                    <div class=\"col-md-4\">
-                            <h4>Investment 101</h4>
-                            <hr class=\"my-4\">
-                            <p>Aimed at trustees who are new to the retirement
-                                    funds industry or need to improve their investment
-                                    knowledge. The course provides an introduction to
-                                    the basic investment concepts applied in the industry.
-                                    The interactive sessions will lay the foundation
-                                    for understanding more advanced investment
-                                    topics.</p>
-                    </div>
+                    
                     <div class=\"col-md-4\"></div>
                     <div class=\"col-md-4\"></div>
                     <div class=\"col-12\"> 
@@ -205,18 +213,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     to track their progress and assess their development
                                     needs.</p>
                     </div>
-                    <div class=\"col-md-4\">
-                            <h4>Investment 102</h4>
-                            <hr class=\"my-4\">
-                            <p>Appropriate for trustees who have a basic understanding
-                                    of investments but require a better grasp of
-                                    investment issues. The course will provide individuals
-                                    with a more advanced overview of investment
-                                    topics related to the management of a retirement
-                                    fund and enable trustees to participate more effectively
-                                    on the Board when dealing with investment
-                                    matters.</p>
-                    </div>
+                    
                     <div class=\"col-md-4\">
                             <h4>Fund Policies</h4>
                             <hr class=\"my-4\">
@@ -328,6 +325,29 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                 duties with confidence.</p>
                 </div>
                 <div class=\"col-md-4\">
+                            <h4>Investment 101</h4>
+                            <hr class=\"my-4\">
+                            <p>Aimed at trustees who are new to the retirement
+                                    funds industry or need to improve their investment
+                                    knowledge. The course provides an introduction to
+                                    the basic investment concepts applied in the industry.
+                                    The interactive sessions will lay the foundation
+                                    for understanding more advanced investment
+                                    topics.</p>
+                    </div>
+                    <div class=\"col-md-4\">
+                            <h4>Investment 102</h4>
+                            <hr class=\"my-4\">
+                            <p>Appropriate for trustees who have a basic understanding
+                                    of investments but require a better grasp of
+                                    investment issues. The course will provide individuals
+                                    with a more advanced overview of investment
+                                    topics related to the management of a retirement
+                                    fund and enable trustees to participate more effectively
+                                    on the Board when dealing with investment
+                                    matters.</p>
+                    </div>
+                <div class=\"col-md-4\">
                         <h4>Investment 103</h4>
                         <hr class=\"my-4\">
                         <p>Appropriate for trustees who form part of the
@@ -349,14 +369,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                 habits and improve their standard of living after
                                 retirement.</p>
                 </div>
-                <div class=\"col-md-4\">
-                        <h4>Fiduciary & Investment Combo</h4>
-                        <hr class=\"my-4\">
-                        <p>Ideal for new and non-financial trustees. The objective
-                                of the combined fiduciary and Investment
-                                Combo is to introduce retirement industry concepts
-                                at a pace understood by new trustees.</p>
-                    </div>
+                
                         <div class=\"col-md-4\">
                         <h4>Fiduciary & Investment Combo</h4>
                         <hr class=\"my-4\">
@@ -373,7 +386,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     101 is to provide the trustee with a basic understanding
                                     of risk and practical methods of its management.</p>
                     </div>
-                    <div class=\"col-md-4\">
+                                    <div class=\"col-md-4\">
                             <h4>Risk Management 102</h4>
                             <hr class=\"my-4\">
                             <p>Ideal for trustees with a basic understanding of Risk
@@ -382,7 +395,9 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     102 Module is to develop a technical
                                     understanding of pension fund risk management to
                                     enable practical methods of managing risks.</p>
-                    </div>
+                </div>
+
+                    
                     <div class=\"col-md-4\">
                             <h4>Near-Retirement Training</h4>
                             <hr class=\"my-4\">
@@ -391,17 +406,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     at retirement in order to maximise the value
                                     of their fund credit.</p>
                     </div>
-                    <div class=\"col-md-4\">
-                            <h4>Investment 101</h4>
-                            <hr class=\"my-4\">
-                            <p>Aimed at trustees who are new to the retirement
-                                    funds industry or need to improve their investment
-                                    knowledge. The course provides an introduction to
-                                    the basic investment concepts applied in the industry.
-                                    The interactive sessions will lay the foundation
-                                    for understanding more advanced investment
-                                    topics.</p>
-                    </div>
+                    
                     <div class=\"col-md-4\"></div>
                     <div class=\"col-md-4\"></div>
                     <div class=\"col-12\"> 
@@ -420,18 +425,7 @@ class __TwigTemplate_f01d77e340040f92d865ea19971b28a9ad1bd09c3fdbb7d3df33b560d6a
                                     to track their progress and assess their development
                                     needs.</p>
                     </div>
-                    <div class=\"col-md-4\">
-                            <h4>Investment 102</h4>
-                            <hr class=\"my-4\">
-                            <p>Appropriate for trustees who have a basic understanding
-                                    of investments but require a better grasp of
-                                    investment issues. The course will provide individuals
-                                    with a more advanced overview of investment
-                                    topics related to the management of a retirement
-                                    fund and enable trustees to participate more effectively
-                                    on the Board when dealing with investment
-                                    matters.</p>
-                    </div>
+                    
                     <div class=\"col-md-4\">
                             <h4>Fund Policies</h4>
                             <hr class=\"my-4\">

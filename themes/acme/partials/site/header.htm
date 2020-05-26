@@ -26,15 +26,7 @@
           <a class="nav-link" href="{{ 'contact-us'|page }}">Contact Us</a>
       </li>
 
-        <li class="{% if this.page.id == 'register' %}active{% endif %}">
-            <a class="nav-link" href="{{ 'register'|page }}">
-              {% if not user %}
-              Register
-              {% else %}
-              My Profile
-              {% endif %}
-            </a>
-        </li>
+      
 
         {% if user %}
         <li class="{% if this.page.id == 'signout' %}active{% endif %}">

@@ -1,4 +1,4 @@
-1584563530a:1:{s:15:"site/header.htm";a:6:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:2045:"==
+1590502434a:1:{s:15:"site/header.htm";a:6:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1746:"==
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <!--<a class="navbar-brand" href="#">{{this.theme.site_name}}</a>-->
     <a class="navbar-brand" href="#"><img src="{{ 'assets/images/Money Matters Logo.png'|theme }}" ></a>
@@ -26,15 +26,7 @@
           <a class="nav-link" href="{{ 'contact-us'|page }}">Contact Us</a>
       </li>
 
-        <li class="{% if this.page.id == 'register' %}active{% endif %}">
-            <a class="nav-link" href="{{ 'register'|page }}">
-              {% if not user %}
-              Register
-              {% else %}
-              My Profile
-              {% endif %}
-            </a>
-        </li>
+      
 
         {% if user %}
         <li class="{% if this.page.id == 'signout' %}active{% endif %}">
@@ -47,7 +39,7 @@
       </ul>
       
     </div>
-  </nav>";s:5:"mtime";i:1572429866;s:6:"markup";s:2041:"<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  </nav>";s:5:"mtime";i:1590499039;s:6:"markup";s:1742:"<nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <!--<a class="navbar-brand" href="#">{{this.theme.site_name}}</a>-->
     <a class="navbar-brand" href="#"><img src="{{ 'assets/images/Money Matters Logo.png'|theme }}" ></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="true" aria-label="Toggle navigation">
@@ -74,15 +66,7 @@
           <a class="nav-link" href="{{ 'contact-us'|page }}">Contact Us</a>
       </li>
 
-        <li class="{% if this.page.id == 'register' %}active{% endif %}">
-            <a class="nav-link" href="{{ 'register'|page }}">
-              {% if not user %}
-              Register
-              {% else %}
-              My Profile
-              {% endif %}
-            </a>
-        </li>
+      
 
         {% if user %}
         <li class="{% if this.page.id == 'signout' %}active{% endif %}">
